@@ -1,0 +1,34 @@
+# Configurações iniciais
+
+# Criar Loop Infinito 
+
+# Desenhar os objetos do jogo na tela
+# personagem do jogador 
+# pontuação
+# tesouro
+
+# Desenhar Mapa do jogo na tela
+# mapa principal
+# mapa do tesouro
+
+# Criar Lógica de iniciar a partida
+# Requisitos:
+# sala existente
+# sala com host 
+# sala com no mínimo 2 jogadores e no máximo 4
+# jogadores não hosts precisam permitir o início
+# Para iniciar:
+# Host inicia partida
+        
+# Criar Lógica de terminar a partida
+# todos os tesouros são coletados
+# resta um único jogador na partida
+
+# Criar Lógica de finalizar o client
+# tecla "X" é clicada
+# opção sair do jogo no menu principal é acionado
+
+# Interações do usuário
+# minimizar, ampliar e fechar tela
+# opções de menu e pause durante o jogo
+# comandos básicos
